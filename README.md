@@ -164,3 +164,13 @@ Open your browser at `http://localhost:8501`
 ## 📄 License
 
 This project is open source and available under the MIT License.
+
+## ⚡ Quick Start (Returning Users)
+cd rag-research-assistant
+source venv/bin/activate
+streamlit run app.py
+
+## ⚡ Quick Start (Returning Users)
+cd /Users/yogesh.hirgond/Documents/Yogesh/Project/rag-research-assistant
+source venv/bin/activate
+streamlit run app.py
