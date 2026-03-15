@@ -1,0 +1,12 @@
+streamlit
+pymupdf
+easyocr
+numpy<2
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+groq
+python-dotenv
+pyyaml
+pillow

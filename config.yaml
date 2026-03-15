@@ -1,0 +1,18 @@
+embedding:
+  model: "all-MiniLM-L6-v2"
+  batch_size: 32
+
+chunking:
+  chunk_size: 600
+  chunk_overlap: 100
+
+vectorstore:
+  path: "data/vectorstore/index"
+
+retrieval:
+  top_k: 5
+
+llm:
+  model: "llama3-8b-8192"
+  max_tokens: 1024
+  temperature: 0.2
